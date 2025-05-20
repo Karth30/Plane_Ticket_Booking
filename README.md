@@ -23,3 +23,21 @@ A modern React web application for booking flights with integrated travel guides
 ```bash
 git clone https://github.com/Karth30/Plane_Ticket_Booking
 cd Plane_Ticket_Booking
+```
+2. Install dependencies:
+3. 
+```bash
+npm install
+# or
+yarn install
+```
+3. Run the app locally:
+   
+```bash
+npm start
+# or
+yarn start
+```
+
+## Contributing
+Contributions are welcome! Please fork the repo and create a pull request.
