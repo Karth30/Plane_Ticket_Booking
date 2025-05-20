@@ -25,7 +25,7 @@ git clone https://github.com/Karth30/Plane_Ticket_Booking
 cd Plane_Ticket_Booking
 ```
 2. Install dependencies:
-3. 
+ 
 ```bash
 npm install
 # or
