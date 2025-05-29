@@ -14,7 +14,7 @@ A modern React web application for booking flights with integrated travel guides
 ### Prerequisites
 
 - Node.js (v16 or higher recommended)
-- npm or yarn
+- npm
 
 ### Setup
 
@@ -28,15 +28,11 @@ cd Plane_Ticket_Booking
  
 ```bash
 npm install
-# or
-yarn install
 ```
 3. Run the app locally:
    
 ```bash
 npm start
-# or
-yarn start
 ```
 
 
